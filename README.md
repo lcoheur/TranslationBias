@@ -1,3 +1,3 @@
 # TranslationBias
 
-Here, you can find Inter2 and Inter3.
+[Here](./bla-bla), you can find the Inter files
